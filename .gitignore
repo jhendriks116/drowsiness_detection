@@ -1,0 +1,21 @@
+#Sample data
+data/
+
+#Generated output
+output/
+
+#Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg0info/
+.ipynb_checkpoints/
+
+#OS/Editor
+._*
+Thumbs.db
+.vscode/
+.idea/

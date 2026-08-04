@@ -1,0 +1,12 @@
+#Computer vision drowsiness detection dependencies
+
+opencv-python           #Video/image I/O, drawing on frames
+mediapipe               #Face Mesh landmark detection
+numpy                   #EAR geometry
+
+#Plots/notebook
+matplotlib
+jupyter
+
+#Tests
+pytest
