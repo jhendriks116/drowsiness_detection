@@ -13,7 +13,7 @@ DATA_DIR = BASE_DIR / "data"        #Sample videos/images folder
 OUTPUT_DIR = BASE_DIR / "output"    #Annotated result videos
 
 #Detection thresholds. Eye Aspect Ratio (EAR) below this counts as "eye closed".
-EAR_THRESHOLD = 0.20
+EAR_THRESHOLD = 0.15
 
 #How many consecutive closed frames before we call it drowsiness.
 CONSECUTIVE_FRAMES = 15
